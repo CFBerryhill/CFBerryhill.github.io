@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spot Robot Mapping
+title: Object Detection with Low Resolution ToF sensors
 description: description of the short project which is long enough
 ---
 
