@@ -3,7 +3,7 @@ theme: jekyll-theme-minimal
 title: Casey Ford
 description: PHD Student | Robotic Sensing
 
-baseurl: /cfberryhill #name of GitHub repository
+baseurl: /CFBerrhill.Github.io #name of GitHub repository
 url: "cfberryhill.com" #custom url to be used instead of GitHub repository
 email: "cbford2@wisc.edu" #
 
