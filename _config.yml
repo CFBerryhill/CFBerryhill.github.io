@@ -1,11 +1,11 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Casey Ford
+description: PHD Student | Robotic Sensing
 
-baseurl: /gradfolio #name of GitHub repository
-url: "" #custom url to be used instead of GitHub repository
-email: #
+baseurl: /CFBerrhill.github.io #name of GitHub repository
+url: "cfberryhill.com" #custom url to be used instead of GitHub repository
+email: "cbford2@wisc.edu" #
 
 # Pagination
 paginate: 4
@@ -16,7 +16,7 @@ paginate_path: /blog/page:num/
 twitter: "#"
 linkedin: "#"
 stackoverflow: "#"
-github: "#"
+github: "#CFBerryhill_"
 researchgate: "#"
 orcid: "#"
 quora: "#"
